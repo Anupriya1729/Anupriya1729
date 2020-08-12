@@ -1,7 +1,7 @@
 ### Hi there, I'm Anupriya 👋
 
 <!--
-**Anupriya1729/Anupriya1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anupriya1729/Anupriya1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently a pursuing B.Tech from Madan Mohan Malaviya Universiy of Technology.
 - 🌱 I’m currently doing projects on Web development, Python and Django.
