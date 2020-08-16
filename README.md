@@ -4,7 +4,7 @@
 **Anupriya1729/Anupriya1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently a pursuing B.Tech in ECE from Madan Mohan Malaviya University of Technology.
-- 🌱 I’m currently doing projects on Web development, Python and Django.
+- 🌱 Doing projects on Web development, Python and Django.
 - ⚡ Tech Enthusiast
 - 🥅 2021 Goals: Learn trending technologies like MERN
 
