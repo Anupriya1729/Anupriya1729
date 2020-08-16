@@ -6,7 +6,7 @@
 - 🔭 I’m currently a pursuing B.Tech in ECE from Madan Mohan Malaviya University of Technology.
 - 🌱 I’m currently doing projects on Web development, Python and Django.
 - ⚡ Tech Enthusiast
-- 🥅 2020 Goals: Learn trending technologies like MERN
+- 🥅 2021 Goals: Learn trending technologies like MERN
 
 
 ### Connect with me:
