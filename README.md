@@ -10,12 +10,9 @@
 - ⚡ Intern at Sapio Analytics - Project assigned - Chatbot to perform a census on Unorganized Sectors. (https://gitlab.com/anupriya91998)
 
 ### Connect with me:
-
 [<img align="left" alt="CodeA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CodeA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
 <br />
-
 ---
 
 ### Languages and Tools:
