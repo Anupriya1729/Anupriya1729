@@ -1,9 +1,9 @@
-### Hi there, I'm Anupriya 👋
+### Hi there, I'm Anupriya
 
 <!--
 **Anupriya1729/Anupriya1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently pursuing B.Tech in ECE from Madan Mohan Malaviya University of Technology.
+- 🔭 Pursuing B.Tech in ECE from Madan Mohan Malaviya University of Technology.
 - 🌱 Doing projects on Web development using Python & Django.
 - ✨ Tech Enthusiast
 - 🥅 2021 Goals: Learn trending technologies like MERN
