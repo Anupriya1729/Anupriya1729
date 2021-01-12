@@ -1,5 +1,5 @@
 👩‍💻 Projects on - Web development, Django Framework, Python Scripts, GUI etc. <br>
-⚡ Intern at Sapio Analytics - Chatbot to perform a census on Unorganized Sectors. (https://gitlab.com/anupriya91998) <br>
+⚡ Former intern at Sapio Analytics - Created chatbot to perform a census on Unorganized Sectors. (https://gitlab.com/anupriya91998) <br>
 ⚡ <a href="https://anupriyanishad.pythonanywhere.com/" target="_blank">.Geekify</a>
 
 ### Connect with me:
