@@ -1,4 +1,4 @@
-👩‍💻 Web development, Django Framework, Python Scripts, GUIs and more. <br>
+👩‍💻 Web development, Django Framework, Python Scripts, Interview Experiences, Handbooks, and more. <br>
 🌱 Incoming SDE <br>
 
 ### Connect with me:
