@@ -1,4 +1,4 @@
-👩‍💻 Web development, Django Framework, Python Scripts, Interview Experiences, Handbooks, and more. <br>
+👩‍💻 Web development, Java, Springboot, Django, Python Scripts, Interview Experiences, Handbooks, and more. <br>
 🌱 Software Engineer <br>
 
 ### Connect with me:
